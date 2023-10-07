@@ -1,1 +1,1 @@
-# ntu-msis-data-mining
+# NTU NSIS Data Mining
